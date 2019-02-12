@@ -1,0 +1,2 @@
+/* gloval css */
+*{margin:0;padding:0;}.feb_absolute{position:absolute;}.feb_relative{position:relative;}.feb_wrapper{width:100%;overflow:hidden;}.feb_left{float:left;}.feb_right{float:right;}.feb_center{position:absolute !important;left:50%;top:50%;transform:translate(-50%,-50%);-webkit-transform:translate(-50%,-50%);-moz-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);-o-transform:translate(-50%,-50%);}
